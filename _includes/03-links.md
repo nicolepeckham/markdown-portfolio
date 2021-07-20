@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+Find me on [github](https://github.com/nicolepeckham) or on [twitter](https://twitter.com/nicoleebba)!
