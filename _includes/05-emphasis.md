@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I *love* to explore new dive sites, but I *__especially__* *love* to explore new places with my dog. 
